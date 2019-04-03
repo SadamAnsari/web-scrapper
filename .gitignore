@@ -1,0 +1,5 @@
+logs/
+chromedriver/
+misc/
+.idea/
+*.pyc
