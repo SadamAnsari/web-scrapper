@@ -1,5 +1,7 @@
-logs/
 chromedriver/
+logs/
+data/
 misc/
+*.xlsx
 .idea/
 *.pyc
